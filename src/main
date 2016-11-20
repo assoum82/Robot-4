@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String[] args) {
+    
+    Robot t[]=newt[3];
+    t[0]=new Robot{"0000",1,2,"Ouest"};
+    t[1]=new Robot{"001",3,1,"Est"};
+    t[2]=new RobotNG{"002",2,1,"Nord"};
+    
+    for(int j=0;j<3;j++){
+    t[j].afficher;
+    }
+    
+    }
+    }
